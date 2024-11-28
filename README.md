@@ -75,6 +75,11 @@ Evaluation was based on standard classification metrics:
 
 ---
 
+---
+
+
+
+
 ## **Getting Started**
 
 1. **Clone the repository**:
@@ -84,5 +89,15 @@ Evaluation was based on standard classification metrics:
    pip install -r requirements.txt
 
 
+
+
+## **Contact Me**
+Feel free to reach out for questions, collaborations, or feedback!
+
+- **GitHub**: [RanaPrince](https://github.com/RanaPrince)
+- **LinkedIn**: [Prince Rana](https://www.linkedin.com/in/princeranaai/)
+- **Email**: [ranaprinceai@gmail.com](mailto:ranaprinceai@gmail.com)
+
+---
 
 
