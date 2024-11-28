@@ -81,4 +81,8 @@ Evaluation was based on standard classification metrics:
    ```bash
    git clone https://github.com/RanaPrince/sentiment-classification.git
 
-    pip install -r requirements.txt
+   pip install -r requirements.txt
+
+
+
+
