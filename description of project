@@ -1,1 +1,81 @@
-xccacdads
+Here’s a LinkedIn post designed to integrate the details from your project description and make it engaging for your audience while maintaining a professional tone:
+
+---
+
+🚀 **Sentiment Classification with NLP and Machine Learning** 🌟  
+
+Thrilled to share my latest project exploring **Natural Language Processing (NLP)** techniques and **Machine Learning models** for sentiment classification! This work combines cutting-edge feature extraction methods, advanced oversampling techniques, and robust algorithms to classify sentiments with high accuracy. 🧑‍💻✨  
+
+---
+
+## **Highlights of the Project**  
+
+📚 **Feature Extraction Techniques:**  
+1️⃣ **Bag of Words (BoW):** Representing text as word occurrence vectors.  
+2️⃣ **TF-IDF:** Highlighting significant words by combining term frequency with inverse document frequency.  
+3️⃣ **Word2Vec:** Learning semantic relationships to create dense word embeddings.  
+4️⃣ **GloVe (Global Vectors):** Leveraging pre-trained word vectors to capture global word co-occurrences.  
+
+⚖️ **Class Imbalance Handling with SMOTE:**  
+- **Synthetic Minority Over-sampling Technique (SMOTE)** was used to balance the dataset, improving model performance on underrepresented classes.  
+
+💻 **Machine Learning Models Evaluated:**  
+- **Naive Bayes**  
+- **Random Forest**  
+- **XGBoost (Extreme Gradient Boosting)**  
+
+---
+
+## **Key Results and Insights**  
+
+### **XGBoost Performance**  
+🏆 **TF-IDF + SMOTE + XGBoost** achieved the best results:  
+- **Accuracy:** **92.71%**  
+- **Precision, Recall, and F1-Score:** **0.93**  
+- **ROC-AUC:** **0.98**  
+
+This combination effectively captured the nuances of sentiment classification, demonstrating the strength of **TF-IDF** for feature representation when paired with SMOTE and XGBoost.  
+
+### **GloVe + SMOTE with XGBoost**  
+While **GloVe embeddings** showed promise, achieving an accuracy of **87.51%**, they highlighted limitations in capturing nuanced sentiment for the underrepresented class.  
+
+---
+
+## **Evaluation Metrics**  
+Results were assessed using:  
+✅ **Accuracy**  
+✅ **Precision, Recall, and F1-Score**  
+✅ **ROC-AUC Curve** (AUC = 0.98)  
+
+---
+
+## **Future Work**  
+
+🔍 Explore **Deep Learning Models** like **BERT** to improve semantic understanding.  
+🌐 Investigate techniques such as **SHAP** and **LIME** for better model interpretability.  
+📈 Experiment with additional embeddings and NLP techniques to refine performance further.  
+
+---
+
+## **Getting Started**  
+👩‍💻 **Clone the repository** and dive into the code:  
+```bash  
+git clone https://github.com/RanaPrince/sentiment-classification.git  
+pip install -r requirements.txt  
+```  
+
+---
+
+📩 **Let’s Connect!**  
+Excited to collaborate, share insights, and discuss potential applications of this work. Feel free to reach out:  
+- **GitHub:** [RanaPrince](https://github.com/RanaPrince)  
+- **LinkedIn:** [Prince Rana](https://www.linkedin.com/in/princeranaai/)  
+- **Email:** [ranaprinceai@gmail.com](mailto:ranaprinceai@gmail.com)  
+
+---
+
+#SentimentAnalysis #NLP #MachineLearning #TFIDF #XGBoost #SMOTE #GloVe #AI #DataScience  
+
+---
+
+This post integrates all relevant details while maintaining a professional and engaging tone. Let me know if there are any further adjustments you’d like! 🚀
