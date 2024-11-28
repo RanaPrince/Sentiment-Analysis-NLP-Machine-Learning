@@ -2,7 +2,7 @@
 
 This project explores **Natural Language Processing (NLP)** techniques and **Machine Learning models** to classify sentiments in text data. The work integrates a combination of feature extraction methods, oversampling techniques, and models to achieve robust and accurate sentiment classification. 🧠📊  
 
-![NLP and Machine Learning Illustration](A_visually_appealing_digital_illustration_represen.png)  
+[NLP and Machine Learning Illustration](A_visually_appealing_digital_illustration_represen.png)  
 
 ---
 
